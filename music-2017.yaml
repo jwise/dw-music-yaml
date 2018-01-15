@@ -1,0 +1,849 @@
+type: conf
+year: 2017
+imgroot: http://joshuawise.com/resources/music-2017/
+imgpath: imgtmp/
+---
+type: raw
+body: |
+  <p>Yes, it's that time of year again: a little late, but it's the musical
+  year in review for 2017.  There was a handful of really good stuff this
+  year, and a few albums that I was really excited about!  This year, I made
+  some changes: I've added a relative and subjective rating system, from one
+  to five stars.  A one star album is not, necessarily, bad (unless I say it
+  is...) -- think of it, really, as how much I am excited about listening to
+  something, so one star just might mean that I haven't really found a place
+  for it in my regular listening habits.  The more stars, the more I think
+  other people will want to listen to it too; to that end, this year, I had
+  only one five-star album, but that means that yinz had better go and
+  listen to it!</p>
+  
+  <p>Got it?  Okay, well, let's get started!  This year, I bought 18
+  albums, saw 5 live shows, and recommended another additional 18 pieces of
+  "extra credit", and here they are:</p>
+  
+  <lj-cut text="--- More (5459 words) ---"><div style="max-width: 48em;
+  margin: 0px auto; line-height: 1.3em; padding: 10px; text-align:
+  left;"><b>Table of contents.</b><ul>
+---
+type: albumsummary
+---
+type: raw
+body: |
+  <li><a href="#extra-credit">Extra credit.</a></li>
+  <li><a href="#live-music">Live music.</a></li>
+  </ul>
+  <p><b>New albums for 2017.</b><ul>
+---
+type: albums
+list:
+-
+  artist: Phutureprimitive
+  album: Kinetik
+  url: https://www.amazon.com/gp/product/B004S5OTM8/ref=oh_aui_d_detailpage_o08_?ie=UTF8&psc=1
+  bandcamp: http://music.phutureprimitive.com/album/kinetik
+  purchased: January 5th
+  released: March, 2011
+  cover: https://images-na.ssl-images-amazon.com/images/I/61wh%2BasZg%2BL._SS500.jpg
+  rating: 2
+  body: |
+    <p>Psy.  Dub.  Chill.  Somewhat dark.  Recommend for genre
+    aficionados.</p>
+    
+    <p>I came to this album originally via my boss, oddly enough -- and
+    then, from hearing the first track played at Planet Granite, and
+    Shazam'ing it.  This is solidly good programming-work music, I think --
+    or, perhaps, climbing gym music, too.  I haven't listened to it much
+    since I bought it, but I could imagine listening to it in the car on
+    longer trips; to be honest, it just hasn't popped to mind as "I should
+    listen to this album!".  Part of the problem, I think, is that the first
+    track sets a standard that the rest of the album has trouble matching. 
+    Regardless, I think that that first track -- <a
+    href="http://music.phutureprimitive.com/track/cryogenic-dreams">Cryogenic
+    Dreams</a> -- is a pretty accessible tune that a lot of electronic music
+    fans will enjoy listening to.  I really enjoy the chill-psy groove to
+    it, and it is well worth a listen.</p>
+-
+  artist: Phantogram
+  album: Three
+  url: https://www.amazon.com/gp/product/B01H3215HO/ref=oh_aui_d_detailpage_o07_?ie=UTF8&psc=1
+  purchased: January 9th
+  released: October, 2016
+  cover: https://images-na.ssl-images-amazon.com/images/I/41yA59Z65nL._SS500.jpg
+  rating: 4
+  body: |
+    <p>Indie/alternative rock.  Lightly electronic.  Recommend.</p>
+    
+    <p>I think it was <user name=knightofstarz site=lj> that recommended
+    this to me.  I like it!  You might be familiar with the hard-hitting
+    track <a href="https://www.youtube.com/watch?v=jryzEU7WAlg">You Don't
+    Get Me High Anymore</a> (which had a <a
+    href="http://songexploder.net/phantogram">Song Exploder episode about
+    it</a>); that was the rare track that got the crossover of a bunch of
+    airplay on (at least) Bay Area radio stations, and also a handful of
+    airplay at <a href="http://www.deathguild.com">Death Guild</a>.  It's a
+    solidly good tune, that is both musically rich, and catchy, and it might
+    be maybe the most representative of the album.</p>
+    
+    <p>There are other things to be said about this album, though.  Although
+    it's a duo, they don't fall into the trap of having only one vocalist,
+    and so it's nice to hear the alternation of voices.  The album is also
+    pretty short, clocking in at only 36 minutes, which is perhaps a
+    blessing and a curse: it seems like you want a little more of it, but on
+    the other hand, it does not belabor the point it tries to make about its
+    style, and so you don't get sick of it halfway through the album.  (Some
+    of the albums I'll review from later in the year have this problem.)
+    This is a good thing, because some of the material can be challenging;
+    <i>Answer</i>, for instance, is musically nontrivial, and <i>Barking
+    Dog</i> is perhaps in a class of its own on the album in terms of
+    subject matter.  The album, in many regards, is very rich.</p>
+    
+    <p><i>You Don't Get Me High Anymore</i>, above, is a great, maybe
+    representative, sample of this album.  But for my money, I think that <a
+    href="https://www.youtube.com/watch?v=WcS6MA9fu-I">Same Old Blues</a> is
+    a standout track: it's punchy and effective, and shows the wide range of
+    musical talent that Phantogram has, from electronic effects to funk- and
+    blues-inspired songwriting.</p>
+-
+  artist: Infected Mushroom
+  album: Return to the Sauce
+  url: https://www.amazon.com/gp/product/B01N313SU6/ref=oh_aui_d_detailpage_o06_?ie=UTF8&psc=1
+  purchased: January 27th
+  released: January 27th
+  cover: https://images-na.ssl-images-amazon.com/images/I/61rTqITKVXL._SS500.jpg
+  rating: 1
+  body: |
+    <p>Uptempo psytrance.  Uh, Infected Mushroom.</p>
+    
+    <p>There's a new Mushroom album out this year!  I bought it, but it
+    doesn't really stick out much in my head.  I went to take a spin through
+    some of the tracks to remind myself of it, and some of them don't
+    register at all for me -- they kind of sound like generic Mushroom. 
+    This could be a good thing or a bad thing; after all, when <i>Legend of
+    the Black Shawarma</i> came out, I originally panned it, thinking that
+    it was too much of "generic Mushroom"; but these days, I think that
+    <i>Black Shawarma</i> is actually quite a good album indeed.  All that
+    said, if I find myself reaching for newer Mushroom these days, I
+    probably end up with 2015's <i>Converting Vegetarians II</i>.</p>
+    
+    <p>I probably owe it to myself to listen to this again.  But in the mean
+    time, I think that <a
+    href="https://www.youtube.com/watch?v=XJTzwei0VWQ">Groove Attack</a> is
+    decently representative of what you'll get on this.</p>
+-
+  artist: Netsky
+  album: 3
+  url: https://www.amazon.com/gp/product/B01GAT430M/ref=oh_aui_d_detailpage_o05_?ie=UTF8&psc=1
+  purchased: March 16th
+  released: June, 2016
+  cover: https://images-na.ssl-images-amazon.com/images/I/31RrhqTrxmL._SS500.jpg
+  rating: 4
+  body: |
+    <p>Drum &amp; bass, verging on somewhat oldskool feeling.  Dancy! 
+    Uplifting.  Recommend for genre fans (especially people who used to like
+    Pendulum, back when they made D&amp;B).</p>
+    
+    <p>I really like this album.  It's up-tempo, dancy, and often uplifting. 
+    I alluded to this being like Pendulum's work, and I think that
+    musically, they're very similar: the drum sequences and samples often
+    have the same two-measure semi-syncopated "kick, SNARE, kickSNARE"
+    pattern, for instance.</p>
+    
+    <p>But just as this album is stylistically similar to some of Pendulum's
+    work, I argue that its high points show at least as much talent as some
+    of Pendulum's high points, if not more.  For instance, <a
+    href="https://www.youtube.com/watch?v=Nzz-kLEdPyc">Bird of Paradise</a>
+    seems like the track in which Netsky truly argues the case for his own
+    musicianship, and it is <i>really</i> good.  The closest basis for
+    comparison that I have, interestingly, is maybe Infected Mushroom's
+    <i>Dancing With Kadafi</i>.  The track is tastefully executed, and
+    executes admirable restraint; despite being at 170+bpm, and getting into
+    some fairly heavy drum breaks, every time you expect the track to
+    descend into noise, Netsky manages to reign it in.  It is masterfully
+    artistic, and the first time I heard it, I was in awe.</p>
+    
+    <p>All that said, this may not necessarily be true about the entire
+    album -- and that might be an OK thing, too.  I will call brief
+    attention to <i>TNT</i>, a track featuring Chromeo, which made me laugh
+    for the entire 3 minutes and 41 seconds.  But I'll refer to my writing
+    on my first listen through, when I said that the track that I had on
+    repeat was <a href="https://www.youtube.com/watch?v=t3SbnrdqJyg">High
+    Alert</a>.  I noted that the track was, musically, a "total garbage
+    track, but the amazing thing is that I totally love it".  Technically,
+    it's terrible: it's boring verse-chorus-verse-chorus; the lyrics are
+    overwrought; the chord progression is uninspiring (and even not as
+    uplifting as it could be); and the melody on the vocals is almost
+    critically dumb.  But that's the thing: I... well, sometimes, I like
+    overwrought lyrics that are really easily comprehensible in the emotion
+    that they convey.  I like VNV, right?  And this track is basically the
+    uplifting version of VNV, and so it got a lot of airplay from me.</p>
+    
+    <p>If I had to pick one track that might be a good balance between
+    Netsky's musicianship and his ability to write stupid, catchy, tunes, it
+    might be <a href="https://www.youtube.com/watch?v=AyA8EQxVGwY">Work It
+    Out</a>.  But you owe it to yourself to listen to <i>Bird of
+    Paradise</i> and <i>High Alert</i>, too, both above.</p>
+-
+  artist: Netsky
+  album: 2 (Deluxe Edition)
+  url: https://www.amazon.com/gp/product/B009YU7DBG/ref=oh_aui_d_detailpage_o04_?ie=UTF8&psc=1
+  purchased: March 19th
+  released: November, 2012
+  cover: https://images-na.ssl-images-amazon.com/images/I/41TEgrD%2BGgL._SS500.jpg
+  rating: 2
+  body: |
+    <p>Drum &amp; bass.</p>
+    
+    <p>I like this album a little less than <i>3</i>, above, which is why
+    I'm writing a little less about it than <i>3</i>.  On the other hand,
+    Josiah likes it more than <i>3</i>, so there's two different opinions. 
+    I think this album overstays its welcome a little bit, even not counting
+    the bonus tracks.  But it has a lot of the same magic that Netsky brings
+    in his later album, maybe with a little bit less refinement.</p>
+    
+    <p><a href="https://www.youtube.com/watch?v=k-7z5X0ATEc">The Whistle
+    Song</a> is insanely uplifting and dancy; I double dare you to listen to
+    it without dancing wherever you're listening.  On the other hand, <a
+    href="https://www.youtube.com/watch?v=EKahYTAQS7o">No Beginning</a> is
+    Netsky's opportunity to show off his musicianship on this album, with a
+    beautifully complex drum loop from <a
+    href="https://www.reddit.com/r/Pendulum/comments/4n20ck/drums_on_netskys_no_beginning_are_none_other_than/">Pendulum's
+    KJ Sawka</a>.</p>
+-
+  artist: Johnny A.
+  album: Driven
+  url: https://www.amazon.com/gp/product/B00KRJOEEW/ref=oh_aui_d_detailpage_o03_?ie=UTF8&psc=1
+  purchased: April 17th
+  released: June, 2014
+  cover: https://images-na.ssl-images-amazon.com/images/I/51OvN7%2B8JHL._SS500.jpg
+  rating: 2
+  body: |
+    <p>Jazz, blues, guitar.  Recommend for Johnny A. completionists;
+    everyone else should buy <i>Sometime Tuesday Morning</i> instead.</p>
+    
+    <p>I know that I said "recommend for completionists".  This is not a bad
+    album.  Here's the thing: Johnny A. is a very talented guitarist, and
+    I'm glad to hear him writing some on his own, but -- well, if I'm being
+    honest, I think a lot of his best work is putting his own (again,
+    incredibly talented!) spin on other people's standards.  Nothing on this
+    album is bad, but the percentage of things that really stood out to me
+    was kind of small.  (I think that this album was mastered kind of hot,
+    anyway, which maybe took away some of the "punch" from previous albums,
+    too.)</p>
+    
+    <p>So what I'm saying is, you should listen to <a
+    href="https://www.youtube.com/watch?v=7YowB48BLrA">The Night I Said
+    Goodbye</a>.  And if you liked it (which, of course, you will, because
+    you have good taste, after all), then you should go buy his first album,
+    <a
+    href="https://www.amazon.com/Sometime-Tuesday-Morning-Johnny/dp/B00005JJ04">Sometime
+    Tuesday Morning</a>.</p>
+-
+  artist: Tycho
+  album: Epoch
+  url: https://www.amazon.com/gp/product/B01LZHEHCJ/ref=oh_aui_d_detailpage_o02_?ie=UTF8&psc=1
+  purchased: April 21st
+  released: September, 2016
+  cover: https://images-na.ssl-images-amazon.com/images/I/31r5pnZHvfL._SS500.jpg
+  rating: 3
+  body: |
+    <p>Downtempo.  Chill.  Electronica.  Almost, but not quite, ambient. 
+    Recommend if you like that kind of thing.</p>
+    
+    <p>I actually really like this album, but I'm not convinced it's
+    terribly accessible.  I reach for it in special situations, but not all
+    the time.  If I'm putting away a lot of miles -- be it behind the wheel,
+    or out for a hike, or churning away tarmac beneath my pedals -- I find
+    that I end up looking for this album.  If you know that you like Tycho,
+    you will like this album.</p>
+    
+    <p>I think I bought this album after hearing a live set from Tycho at
+    Coachella on SiriusXM.  Impressive -- even more impressive after you
+    hear what he does on the album -- is that the vast majority of the
+    instrumentation that they play on the album, they can also play live. 
+    So, as much as you expect this genre to be "laptop music", Tycho is
+    really quite talented.  Unfortunately, I can't seem to find a link to
+    listen to that set, but <a
+    href="https://www.youtube.com/watch?v=2zil3A20KC4">here's a close enough
+    analogue</a>.</p>
+    
+    <p>Representative from this album, I think, is the opening track, <a
+    href="https://www.youtube.com/watch?v=yg_rZhpMuWA">Glider</a>.  To be
+    honest, though, I would be remiss when mentioning Tycho to an audience
+    that may not know him if I did not also link the <a
+    href="https://www.youtube.com/watch?v=APXjAiWGe4s">title track from his
+    previous album, Awake</a>, which I think most people would instead know
+    as being "the Tycho song".</p>
+-
+  artist: Rhys Fulber
+  album: Realism
+  url: https://www.amazon.com/gp/product/B0718WPGHD/ref=oh_aui_d_detailpage_o01_?ie=UTF8&psc=1
+  purchased: May 26th
+  released: May 18th
+  cover: https://images-na.ssl-images-amazon.com/images/I/51BTjTDeu9L._SS500.jpg
+  bandcamp: https://sonicgroove.bandcamp.com/album/realism-sg-1778
+  rating: 4
+  body: |
+    <p>Industrial.  Like, really, really, really industrial.  Recommend for
+    industrial fans.</p>
+    
+    <p>Rhys Fulber is an artist that you may know, if you like the kind of
+    music that I like.  He is half of Delerium (the other half being Bill
+    Leeb), and also, the mastermind behind his non-self-named solo project,
+    Conjure One.  (He's been involved in Front Line Assembly, too.) I really
+    like Delerium, and I really like Conjure One.  This, then, is his first
+    self-named solo project.  It's dramatically different from the lighter
+    Delerium and Conjure One work, being heavily dark and rhythm-driven. 
+    The first track, <i>Effigy</i>, makes no bones about what it is, placing
+    you solidly into the beating heart of the machine, with changing
+    soundscapes and spoken vocal samples as the track progresses.</p>
+    
+    <p>If you want to listen to something that's unlike the vast majority of
+    things you'll listen to this year, you should give <a
+    href="https://www.youtube.com/watch?v=yFzqMI7Cq90">Effigy</a> a spin. 
+    After all, the worst that could happen is that you decide you don't like
+    it -- and in the best case, you have found a new genre of music to
+    love!</p>
+-
+  artist: Emma Hewitt
+  album: Burn The Sky Down
+  url: https://www.amazon.com/gp/product/B0083L29RA/ref=oh_aui_d_detailpage_o00_?ie=UTF8&psc=1
+  purchased: July 13th
+  released: May, 2012
+  cover: https://images-na.ssl-images-amazon.com/images/I/51I9Qyco7fL._SS500.jpg
+  rating: 3
+  body: |
+    <p>Electronic; alternative pop; atmospheric; a little dark. 
+    Recommend.</p>
+    
+    <p>This is a good album that overstays its welcome by about five tracks,
+    I think.  It starts with this wonderful combination of an atmospheric
+    track, a memorable single (<i>Colours</i>), and a driving collection of
+    harmonies (<i>Miss You Paradise</i>), which are all musically
+    interesting.  <i>Foolish Boy</i> has a hi-hat pattern at the beginning
+    of it that reminds me of the drum sequencing in Delerium's <i>Stay</i>
+    (off of last year's <i>Mythologie</i>), and, really, the entire album
+    isn't too far from that general idea, in sound.  Eventually, the sound
+    in the album loses its luster, and I find myself fatigued with it.</p>
+    
+    <p>All that said about the content of the album, it's probably worth
+    putting it into context.  We were used to Emma Hewitt solely as guest
+    vocals, on other people's albums: Dash Berlin's <i>Waiting</i>, and then
+    <i>Disarm Yourself</i>.  And this betrays something of a pattern in
+    dance music: it is way more common, as far as I can tell, for women to
+    be named after the "featuring", rather than as the album artist.  So,
+    more than anything else, it's a refreshing change for Emma Hewitt to
+    have "first author" credit, as it were, and reminds me that I should
+    also check out Betsie Larkin's solo effort, <i>All We Have Is
+    Now</i>.</p>
+    
+    <p>So even notwithstanding my complaint that this album would be better
+    suited at the length of <i>Three</i>, above, the part of the album that
+    comes before I get tired of it is, alone, worth the purchase.  Have a
+    listen to <a href="https://www.youtube.com/watch?v=cfj8d36qrk8">Miss You
+    Paradise</a>, and enjoy Emma Hewitt's ability to use her voice both as
+    lyrical conveyance and as harmonizing instrument to set a soundscape.</p>
+-
+  artist: Jamiroquai
+  album: Automaton
+  url: https://www.amazon.com/gp/product/B01MTBDM32/ref=oh_aui_d_detailpage_o09_?ie=UTF8&psc=1
+  purchased: August 11th
+  released: March 31st
+  cover: https://images-na.ssl-images-amazon.com/images/I/61xyscq-UUL._SS500.jpg
+  rating: 2
+  body: |
+    <p>Funk.  Yes, it's more Jamiroquai!</p>
+    
+    <p>I gave this a kind of low rating, but realistically, it's because I
+    never really had cause to rate it higher.  I think I listened to it once
+    at work and once on my bike.  Listening to it now, I really like the
+    first track, <i>Shake It On</i>, but I seem to remember that the rest of
+    the album was not as much my jam.  The title track, <i>Automaton</i> is
+    commendable inasmuch as it's a good experiment, but I'm not sure I'm
+    really in love with it.  Fundamentally, I think the problem with this
+    album is that there isn't a place where I would listen to this; it
+    doesn't fit in with any of the places I usually listen to music.</p>
+    
+    <p>All that told, I think that <a
+    href="https://www.youtube.com/watch?v=rmlmOk4ubcU">the title track,
+    Automaton</a> is a good sense of what this album is all about, and you
+    wouldn't do badly to listen to it.  And, if you like the opening track,
+    <a href="https://www.youtube.com/watch?v=R2Yc02Z7iic">Shake It On</a>,
+    you might really like some of Jay Kay's earlier work -- <i>Dynamite</i>
+    is a great album that's well worth listening to.</p>
+-
+  artist: Seeming
+  album: "Sol: A Self-Banishment Ritual (+ Faceless EP)"
+  url: https://www.amazon.com/gp/product/B073LKHFFV/ref=oh_aui_d_detailpage_o08_?ie=UTF8&psc=1
+  purchased: August 31st
+  released: August 4th
+  cover: https://images-na.ssl-images-amazon.com/images/I/416cV9Tf9NL._SS500.jpg
+  bandcamp: https://seeming.bandcamp.com/album/sol-a-self-banishment-ritual
+  rating: 3
+  body: |
+    <p>Alex Reed, in a genre of his own.  Post-industrial funk, if you have
+    to label it.  Recommend for Alex Reed fans.</p>
+    
+    <p>This time, Alex took an almost funk-like direction, as he produced a
+    concept album flowing from track to track.  This is a challenging album:
+    as usual, there is a good deal of the "Alex is smarter than you" going
+    on, as he speaks in metaphor deeper than my little mind is capable of
+    putting together.  There were a handful of memorable tracks on the LP:
+    <i>Stranger</i> is something that I quite enjoyed, while
+    <i>Knowledge</i> takes an almost P-Funk approach to the backing. 
+    <i>Talk About Bones</i> would not be out of place on <i>Madness &amp;
+    Extinction</i>, and has a catchy beat and melody.</p>
+    
+    <p>The companion EP, <i>Faceless</i>, is full of a mix of tracks that
+    I actually like better than Sol, on the whole.  Stylistically, some of
+    it harkens back to the ThouShaltNot era of Alex's work; maybe the most
+    true to that is <i>Phantom Limb (Classic Mix)</i>, which has a sound
+    almost like an updated version of the sound from the 2003 album <i>The
+    White Beyond</i>.  I quite enjoy that track!</p>
+    
+    <p>Fans of Alex's know what they're getting into with this, I think, but
+    in case you're curious, <a
+    href="https://seeming.bandcamp.com/track/phantom-limb-classic-mix">Phantom
+    Limb (Classic Mix)</a> is probably represntative of the <i>Faceless
+    EP</i>, and <a
+    href="https://seeming.bandcamp.com/track/knowledge">Knowledge</a> is
+    probably your best introduction to the themes presented on
+    <i>Sol</i>.</p>
+-
+  artist: The Cr&uuml;xshadows
+  album: Astromythology
+  url: https://www.amazon.com/gp/product/B074SZ312L/ref=oh_aui_d_detailpage_o06_?ie=UTF8&psc=1
+  purchased: September 4th
+  released: September 1st
+  cover: https://images-na.ssl-images-amazon.com/images/I/61wBdH-1IuL._SS500.jpg
+  rating: 2
+  body: |
+    <p>Rock.  Goth.  Recommend for genre aficionados.</p>
+    
+    <p>The simple story is this: if you like The Cr&uuml;xshadows, you'll
+    like this album; if you don't, you probably won't.  Stylistically, this
+    album is pretty similar to <i>Under Your Spell</i>, below, and of the
+    two of them, frankly, I like <i>Under Your Spell</i> better.  All that
+    said, the opening track (and single), <i>Helios</i> is good listening! 
+    But I'm not sure the rest of the album is an hour and three minutes
+    worth of interesting.</p>
+    
+    <p>Have a spin listening to <a
+    href="https://www.youtube.com/watch?v=7FKRXFNt1xg">Helios</a> if you
+    want something new and rock-like to listen to.  But there's only so much
+    of it you can listen to in a single go, I think.</p>
+-
+  artist: Aly &amp; Fila
+  album: The Chill Out
+  url: https://www.amazon.com/gp/product/B00TVQ3OKW/ref=oh_aui_d_detailpage_o05_?ie=UTF8&psc=1
+  purchased: September 18th
+  released: March, 2015
+  cover: https://images-na.ssl-images-amazon.com/images/I/51dA9oNG0hL._SS500.jpg
+  rating: 1
+  body: |
+    <p>Electronic.  Trance.  Chill.  Remixes.</p>
+    
+    <p>I bought this while I was impatiently awaiting <i>Beyond The
+    Lights</i>, below.  If you want slightly chilled -- but not really as
+    much slower as you <i>really</i> want -- remixes of some Aly &amp; Fila
+    classics, then I guess this is the album for you.  I probably owe it to
+    myself to give this album another spin to see if any of it would be
+    appropriate to fit in my yoga playlist, but I don't expect any of it to
+    be.  It's not a bad album, but I don't love it, and I don't really think
+    that the songs had the reimagining that they really deserve for this
+    format.</p>
+    
+    <p>Here's <a href="https://www.youtube.com/watch?v=HCfrK9Bo7Vw">Running
+    (Chill Out Mix)</a>.</p>
+-
+  artist: Aly &amp; Fila
+  album: Beyond The Lights
+  url: https://www.amazon.com/gp/product/B075DDY5CN/ref=oh_aui_d_detailpage_o04_?ie=UTF8&psc=1
+  purchased: September 26th
+  released: September 18th
+  cover: https://images-na.ssl-images-amazon.com/images/I/51L1dv1Jy-L._SS500.jpg
+  rating: 2
+  body: |
+    <p>Trance.</p>
+    
+    <p>This is an okay album, but fundamentally, there's one problem with it
+    -- and that problem is their 2014 album, <i>The Other Shore</i>.  If
+    <i>The Other Shore</i> seemed to stay fresh, reinventing itself as it
+    progressed, <i>Beyond The Lights</i> seems to fall back on the same two
+    or three ideas that it sets out early in the album.  It might be that my
+    expectations were unreasonably inflated for this album, and maybe if it
+    were not in the shadow (so to speak) of its older sibling, then it would
+    stand alone much more readily.  It's not bad, but I keep feeling like I
+    did with <i>Mythologie</i> last year, or maybe <i>The Sum Of Its
+    Parts</i>: if I want to listen to Aly &amp; Fila, then instead I think
+    I'd rather just listen to <i>The Other Shore</i>.</p>
+    
+    <p>There are good tracks on this album, and it's probably worth one spin
+    just to familiarize yourself with them, if you like this kind of thing. 
+    The title track, <a
+    href="https://www.youtube.com/watch?v=T7o00yd_XJ8">Beyond The
+    Lights</a>, hits all the Aly &amp; Fila tropes, including the
+    Middle-Eastern melodies, and the trademark Aly &amp; Fila bass drum roll
+    about 3/4 of the way through.  But if you only get to listen to one
+    track, <a href="https://www.youtube.com/watch?v=JRdZZccNMYU">Surrender,
+    ft. Sue McLaren</a> is what you're lookign for.  (You might remember Sue
+    McLaren from <i>Running</i>, off <i>The Other Shore</i>, and her
+    performance on this album is at least as uplifting as it was there.)</p>
+-
+  artist: The Thrillseekers
+  album: Escape
+  url: https://www.amazon.com/gp/product/B01MQK5A8J/ref=oh_aui_d_detailpage_o03_?ie=UTF8&psc=1
+  purchased: September 28th
+  released: December, 2016
+  cover: https://images-na.ssl-images-amazon.com/images/I/51NAY6M%2Be0L._SS500.jpg
+  rating: 5
+  body: |
+    <p>Electronica; trance, but not heavy.  Recommended for everyone. 
+    <b>Drop what you're doing and buy this album right now.</b></p>
+    
+    <p>This is the album this year that I didn't even know how much I needed
+    until I heard it.  Last year, I bought Chicane's <i>The Sum Of Its
+    Parts</i> in the hope of an album in the vein of <i>Behind The Sun</i>;
+    this album is the clear spiritual successor that I was looking for.  You
+    may remember that The Thrillseekers (Steve Helstrip) did a remix of
+    Saltwater that was on <i>Behind The Sun</i>; he hasn't had his own
+    full-length artist album, until now.  It has been worth the wait.</p>
+    
+    <p>Like <i>Behind The Sun</i>, this is an album of something of an
+    emotional journey.  Rarely do I feel compelled to quote the promotional
+    material for an album, but in this case, I think it's reasonable and
+    accurate: &quot;...and that's what this album is all about: escaping
+    from it all, and getting lost in the emotions conveyed within
+    it.&quot;  The album is expertly crafted to put forth the messages of
+    both hope and pain, back and forth, expressing the breadth of the human
+    experience.  Lyrically, it is not terribly challenging, but I find that
+    the soundscapes that The Thrillseekers create do an incredible job of
+    shaping the voyage that you embark on over the course of this album.</p>
+    
+    <p>You owe it to yourself to just sit down and listen to the whole album
+    from start to finish, I think.  Go out for a hike, or a run, and put it
+    on your headphones, and get lost in it: just do it.  If you need
+    standout tracks, consider the contrast of <a
+    href="https://www.youtube.com/watch?v=Ph5GKwpMarU">Love Me For A Day</a>
+    with <a href="https://www.youtube.com/watch?v=HyR6vwu4w6o">How Will I
+    Know</a>.  But don't spoil it for yourself: listen to this album from
+    top to bottom.</p>
+-
+  artist: The Birthday Massacre
+  album: Under Your Spell
+  url: https://www.amazon.com/gp/product/B0719WXPCY/ref=oh_aui_d_detailpage_o02_?ie=UTF8&psc=1
+  purchased: December 1st
+  released: June 9th
+  cover: https://images-na.ssl-images-amazon.com/images/I/613jRigpALL._SS500.jpg
+  rating: 4
+  body: |
+    <p>Rock, bordering on metal.  Goth.  Recommended for people who like
+    that kind of thing -- or those with a sense of adventure.</p>
+    
+    <p>I really like this album.  It has all the right combinations of
+    things that stick music in my mind: both hard electronic sounds, and
+    fulfillingly real instrumentation; soundscapes that fill; and infectious
+    melodies.  I am not convinced that this is a particularly courageous
+    move, musically -- perhaps it's more of a "safe" sound for what TBM
+    listeners expect -- but it's very clear about what it's trying to do,
+    and it executes that basically flawlessly.  There's enough variety in
+    the album that it feels fresh for all 41 minutes; the common sonic
+    themes in sounds are present for most of the album, but I don't find
+    myself fatigued listening to it.  Tempos vary from the mid-90s all the
+    way to mid-150s, which help avoid the perception of "one really long
+    song", too.</p>
+    
+    <p>Often, I find myself singing along in the car, or if I'm on my bike
+    working hard, sometimes involuntarily harmonizing with whatever breath I
+    have left.  The album feels upbeat and driving most of the way through. 
+    For my ears, the best introduction to the album is probably <a
+    href="https://www.youtube.com/watch?v=EgFFAeG5BBQ">One</a>, and if you
+    enjoy rock, you should have a listen to it.  (Note that the video mix is
+    not exactly identical to the album mix; I like the album mix a little
+    better.)</p>
+-
+  artist: Craig Connelly
+  album: One Second Closer (Deluxe Edition)
+  url: https://www.amazon.com/gp/product/B076B36Y91/ref=oh_aui_d_detailpage_o01_?ie=UTF8&psc=1
+  purchased: December 17th
+  released: November 10th
+  cover: https://images-na.ssl-images-amazon.com/images/I/51yQfxeCwnL._SS500.jpg
+  rating: 3
+  body: |
+    <p>Uplifting trance.  Recommended for trance aficionados.</p>
+    
+    <p>This is a solid trance album that I think overstays its welcome by
+    about 20 minutes (even not withstanding the remixes on the deluxe
+    edition).  The best analogy that I can give is that it's a good
+    successor to John O'Callaghan's 2009 <i>Never Fade Away</i> (though, I
+    think I liked <i>Never Fade Away</i> better).  This is Craig Connelly's
+    first artist album, though, and in this era of fewer and fewer people
+    making full-length artist albums, I can't fault anyone for getting out
+    there and having a go at it; as I listen to each individual track in
+    isolation, I remember why I enjoy this kind of trancey vibe, and I think
+    of how much I'd enjoy any of these in the middle of a good DJ set.</p>
+    
+    <p>This album is at its best when it's at its most uplifting, and I
+    think the peak of that is probably <a
+    href="https://www.youtube.com/watch?v=lngtQPLDWWc">How Can I, ft. 
+    Jessica Lawrence</a> -- but, for extra double uplifting points, you
+    should really consider, on the bonus album, the <a
+    href="https://www.youtube.com/watch?v=ZiFBhe0Wj7E">John O'Callaghan
+    remix of the same tune</a>, which is really something else, and made me
+    dance in my seat while I listened to it right now.</p>
+-
+  artist: Armin van Buuren
+  album: A State of Trance Year Mix 2017
+  url: https://www.amazon.com/gp/product/B077YSSZCZ/ref=oh_aui_d_detailpage_o00_?ie=UTF8&psc=1
+  purchased: December 17th
+  released: December 15th
+  cover: https://images-na.ssl-images-amazon.com/images/I/51Q3u3DBuxL._SS500.jpg
+  rating: 3
+  body: |
+    <p>Yep, it's another ASOT year mix.  One of the better ones in recent
+    memory.</p>
+    
+    <p>Do you like ASOT year mixes?  This one is pretty good, and I enjoyed
+    listening to it, and I could even see myself listening to it again in
+    the future -- something I probably haven't said about an ASOT yearmix
+    until 2009 or so.  Also, the intro got even more absurd this year, so it
+    has that going for it.  One thing that's nice in recent memory is that
+    you get full tracks also if you buy the full mixed version on Amazon
+    MP3, so if you like anything in particular, you get another 100 or so
+    tracks to listen to on your own.</p>
+---
+type: raw
+body: |
+  </ul> <p><a name="extra-credit"></a>Unsurprisingly, there were other things that I listened to this
+  year, too.  For <b>extra credit</b>, here are a bunch of things that I liked, but
+  that for whatever reason, I didn't end up buying in 2017:</p> <ul>
+---
+type: extracredit
+list:
+-
+  title: Gabriel &amp; Dresden - The Only Road
+  url: https://www.amazon.com/Only-Road-Gabriel-Dresden/dp/B077V53CMK
+  body: |
+    <p>I didn't mention this above because I only bought this in January,
+    but, here, look, let me put it in no uncertain terms: <b>buy this right
+    now</b>.  This would have been a strong contender for "best thing I
+    listened to this year" if it had met the January 1st deadline.  But,
+    basically, all you need to know is that Gabriel &amp; Dresden did their
+    first artist album since <i>2006</i>, and it's absolutely fantastic. 
+    (Trance-style, if you must know, but musically, it kind of wanders
+    around genres, and has the same "everyone should listen" characteristic
+    that <i>Escape</i> does.)</p>
+-
+  title: TR/ST - The Dazzle
+  url: https://www.youtube.com/watch?v=7V-Ah-L5PNQ
+  short: A TR/ST single that I didn't know existed.  Good stuff.
+-
+  title: "Camo &amp; Krooked: BBC Radio 1 Essential Mix (2017)"
+  url: https://soundcloud.com/camokrooked/essential-mix-2017
+  body: |
+    <p>If you liked Pendulum's 2005 Essential Mix and have been looking for
+    your entire life for another mix like that, well, your search stops
+    here.  This is an awesome two hour long drum &amp; bass set that will
+    make you want to just keep dancing.  If you need work music, sit down
+    for two hours with this and don't emerge from your headphones until it's
+    over.  Via James.</p>
+-
+  title: Mat Zo, ft. Eyes That Lie - Hurricane (2011 Club Mix)
+  url: https://soundcloud.com/matzo/hurricane-feat-eyes-that-lie-2011-club-mix
+-
+  title: Mat Zo - Natural
+  url: https://soundcloud.com/matzo/natural
+  body: |
+    <p>Mat Zo's SoundCloud is kind of a treasure trove full fo all sorts of
+    stuff that didn't quite make it onto his albums, for whatever reason. 
+    The <i>Hurricane</i> edit is -- to borrow an EDM turn of phrase,
+    "massive", and <i>Natural</i> is just a good track.  Basically
+    everything that Mat Zo does feels inspired, and even when he shitposts
+    on SoundCloud, it is not an exception.</p>
+-
+  title: Platina Jazz - Tank! (Cowboy Bebop cover)
+  url: https://www.youtube.com/watch?v=0iKpIh6xonc
+  short: |
+    Presented without comment.  If you know what this is, you need to
+    listen to it right now.
+-
+  title: Tokyo Brass Style - Cruel Angel's Thesis
+  url: https://www.youtube.com/watch?v=hq8oI2uahWE
+  short: |
+    If you needed to listen to Tank!, you really really need to listen to
+    this.  If you don't know what either of these are, you can safely ignore
+    them.
+-
+  title: "Dave Simon: Frolic NYE, Winter 2015, D&amp;B mix"
+  url: https://soundcloud.com/djdavesimon/frolicwinter
+  short: Apparently 2017 was the year of drum &amp; bass discovery for me.
+-
+  title: Resonate - Somewhere Over The Rainbow
+  url: https://www.youtube.com/watch?v=ILvCtdG_LsI
+  short: |
+    Hard to believe that so much rich sound can come from just four
+    voices.
+-
+  title: Lange, ft. Sarah Howells - Out of the Sky (Radio Edit)
+  url: https://www.youtube.com/watch?v=pwezcQJFEd0
+  short: |
+    I've heard the Kyau &amp; Albert mix in ASOTs years past, but I actually
+    really like the radio version -- and this is a great reminder of a great
+    tune.
+-
+  title: ThouShaltNot - Land Dispute
+  url: https://thoushaltnot.bandcamp.com/album/land-dispute
+  short: |
+    I rediscovered this album this year, and, just like my discovery of
+    The White Beyond, I like this, too.  Enjoy having <i>Like Apple
+    Trees</i> stuck in your head for the next week.  You're welcome.
+-
+  title: Ferry Corsten - Blueprint
+  url: https://www.amazon.com/Blueprint-FERRY-CORSTEN/dp/B071S3RLL3
+  short: |
+    Reviews are good, but I didn't manage to listen to it last year.  I
+    should give it a spin this year.  It is, anyway, a new Ferry artist
+    album, so I have higher hopes than 2016's <i>&gt;hello&gt;world</i>.
+-
+  title: TR/ST - Bicep
+  url: https://www.youtube.com/watch?v=bQt9afKvh3U
+-
+  title: TR/ST - Destroyer
+  url: https://www.youtube.com/watch?v=q4SdCVAiZ7c
+  body: |
+    <p>TR/ST has a new album coming that he's been teasing singles from for the
+    past two years.  <i>Bicep</i> is not my favorite thing, but
+    <i>Destroyer</i> I think is freaking fantastic, and features a sound
+    that's identifiably TR/ST, but otherwise feels fresh and like a complete
+    new dimension for him to explore -- a stripped-down sound almost
+    reminiscent of Coldplay.  I'm excited for whatever the album brings,
+    when it finally lands -- and maybe even more excited for the tour that
+    comes with it.</p>
+-
+  title: Ari Mason - Musica Lunae
+  url: https://arimason.bandcamp.com/album/musica-lunae
+  body: |
+    <p>Last year, I wrote about Ari Mason: "<i>Anyway, I think it's pretty
+    clear that she is still developing as an artist, and if this is anything
+    to go by, I really look forward to whatever she does next.</i>".  I
+    stand by this, but what she did was 100% not what I was expecting.  In
+    this case, she decided to cover...  a collection of 16th century motets. 
+    She brings her own flavor to them, with an electronic, vocoder-based
+    style for the entirety of the album.  Initially, I wasn't sure what to
+    make of it, and felt kind of negatively about it, but as the album
+    progressed, I realized that the electronically-obscured sound wasn't an
+    unintended side effect, so much as it was the entire point of the
+    album!</p>
+    
+    <p>I didn't buy it last year because it wasn't out on Amazon MP3 yet,
+    which is where I seem to have centralized my music consumption.  I don't
+    know if it will get all that much airplay from me, either.  But I'm
+    really excited to see an artist finding her sound, and making such a
+    strong statement: "this is what I believe that this genre should draw
+    from", and "it's okay to have crosspollination in our influences".  This
+    is a gutsy album to release, and I'm so glad that she did it.  I bought
+    it in 2018.</p>
+-
+  title: Vienna Teng - Harbor
+  url: https://www.youtube.com/watch?v=ss7aFUbwzec
+-
+  title: Vienna Teng - Eric's Song
+  url: https://www.youtube.com/watch?v=ImgK6DRGTZE
+-
+  title: "Vienna Teng: Live from Freight and Salvage Coffeehouse, December, 2017"
+  url: https://www.youtube.com/watch?v=yiTKlYYTdxk
+  body: |
+    <p>Piano and vocals.</p>
+    
+    <p>Maybe one of the biggest discoveries that I've made this year is
+    Vienna Teng.  I came to her song <i>Harbor</i> from Syncopation's a
+    cappella cover of it at Techapella this year, where they did a fantastic
+    job navigating the complicated rhythms that build the piece up; and in
+    that, really, lies the first hint of what an incredibly talented
+    musician that Vienna is.  She pours raw emotion into her work, but on
+    the piano and in her writing -- and the amazing thing is that, despite
+    the technically challenging music, it doesn't feel contrived in the
+    slightest.  The rhythms aren't unusual for the classic "prog rock"
+    reason of "because we had to put something weird in there", and the
+    writing is not overblown for the sake of being overblown; there's
+    something refreshingly honest about all of her work.</p>
+    
+    <p>The depth of this honesty, I think, comes when you see her live,
+    which I only wish that I had.  She does a show around New Year's every
+    year, as far as I can tell, and I didn't quite get in on tickets in
+    time.  (I won't make that mistake again this year.) She is at least as
+    talented of a performer live as she is on an album, and you can tell
+    that the performance is truly like second nature to her; she chooses
+    songs to play, as far as I can tell, by pulling them out of a hat, and
+    because she knows them inside and out, she executes them perfectly. 
+    (She did a second night of the show, with a largely different setlist,
+    but I haven't listened to that one yet.)</p>
+    
+    <p>You would do yourself a great service to listen to the recorded
+    tracks that I linked above.  Then sit down for two hours and listen to
+    her live set.  You won't regret it.  (Then, get tickets to see her as
+    soon as you can.)</p>
+---
+type: raw
+body: |
+  </ul> <p><a name="live-music"></a>Finally, I saw some amount of <b>live music</b> in 2017, but not as much
+  as I did in 2016.  Here are the shows I saw, with a brief comment on each
+  of them.</p> <ul>
+---
+type: live
+list:
+-
+  act: Kite
+  where: DNA Lounge
+  date: March 26th
+  url: https://www.dnalounge.com/calendar/2017/03-26d.html
+  short: |
+    Pretty darn good live set; DJ Sage's opening set was also good.  <a
+    href="https://photos.app.goo.gl/xCVm6uNrQDEPRTuC2">Photos</a>.
+-
+  act: "So Stoked: Rave to the Grave (ft. Darude and VNV Nation)"
+  where: DNA Lounge
+  date: May 19th
+  url: https://www.dnalounge.com/calendar/2017/05-19.html
+  short: |
+    An unusual combination of two people in the same room; DJ sets from
+    both.  <a href="https://photos.app.goo.gl/07cbmTf4OCe80bwb2">Photos</a>.
+-
+  act: "VNV Nation: Automatic Empire tour"
+  where: Bottom of the Hill
+  date: August 18th
+  url: https://www.facebook.com/VNVNation/posts/10156202006631258
+  short: |
+    VNV again.  A really nice intimate set in a packed venue.  <a
+    href="https://photos.app.goo.gl/bDklUgPEWYZfIpPq2">Photos</a>.
+-
+  act: Wil Blades
+  where: Cafe Stritch
+  url: http://www.cafestritch.com/event/wil-blades-quartet/
+  date: December 2nd
+  short: |
+    I forgot how much I missed seeing live jazz.  Wil Blades put on a really
+    good show, and if you ever get the opportunity to see him, you should. 
+    Or, for that matter, if you ever get the chance to see anyone playing a
+    Hammond B-3, you should...  <a
+    href="https://photos.app.goo.gl/vK6QzRimMA8Jr4jf2">Photos</a>.
+-
+  act: Techapella
+  where: Fox Theater
+  url: https://www.techapella.com
+  date: December 4th
+  short: |
+    Yep, another year, another Techapella.  Feedback put on a really great
+    show.  Sadly, no photos taken.
+---
+type: raw
+body: |
+  </ul></div></lj-cut>
+  
+  <p>So that was 2017.  What did I miss?</p>
+  
+  <p><center>(<a href="https://joshua0.dreamwidth.org/62706.html">Previously,
+  2016</a>; <a href="https://joshua0.dreamwidth.org/60622.html">previously,
+  2015</a>.)</center></p>
+  <p><center><small>(Also, this post was automatically formatted by a script that I
+  wrote, and if you want it for yourself, you can get it <a
+  href="http://github.com/jwise/dw-music-yaml">here</a>.)</small></center></p>
