@@ -1,0 +1,996 @@
+type: conf
+year: 2018
+imgroot: http://joshuawise.com/resources/music-2018/
+imgpath: imgtmp-2018/
+---
+type: raw
+body: |
+  <p>Hooo boy, I am <i>late</i> on this one this year.  At the beginning of
+  2018, I was worried that there wasn't a lot of music that I was excited
+  for; I was pleasantly surprised, over the course of the year, to have a
+  <b>lot</b> of stuff that I really really liked!  I bought a lot of music
+  and spent a while reviewing it &mdash; but also, this year, I even did some
+  mixes and mashups of my own, so stick around for those.</p>
+  
+  <p>As usual, here's how this works: the rating system is relative and
+  subjective rating system, from one to five stars.  A one star album is
+  not, necessarily, bad (unless I say it is...) &mdash; think of it, really, as
+  how much I am excited about listening to something, so one star just might
+  mean that I haven't really found a place for it in my regular listening
+  habits.  The more stars, the more I think other people will want to listen
+  to it too &mdash; or, at least, the more I think other people ought to listen
+  to it, anyway...!</p>
+  
+  <p>Got it?  Okay, well, let's get started &mdash this year, I bought 22
+  albums, made 4 mashups of my own, saw 4 live shows, and recommended
+  another additional 26 pieces of "extra credit", and here they all are:</p>
+  
+  <lj-cut text="--- More (5628 words) ---"><div style="max-width: 48em;
+  margin: 0px auto; line-height: 1.3em; padding: 10px; text-align:
+  left;"><b>Table of contents.</b><ul>
+  <li><a href="#eoy-2018">End of year 2018 mix.</a></li>
+---
+type: albumsummary
+---
+type: raw
+body: |
+  <li><a href="#from-me">Stuff from me.</a></li>
+  <li><a href="#extra-credit">Extra credit.</a></li>
+  <li><a href="#live-music">Live music.</a></li>
+  </ul>
+  
+  <p style="padding-left: 2em; padding-right: 2em; margin-bottom: 2em;"><a
+  name="#eoy-2018"></a><a
+  href="https://joshuawise.com/resources/eoy2018/v1/"><img
+  src="https://joshuawise.com/resources/eoy2018/v1/cover.1024.jpg"
+  style="float: left; width: 200px; height: 200px; margin-right: 1em;
+  margin-bottom: 1.5em; padding: 1px; background-color: #000000;"></img>
+  <b>New this year, an end-of-year mix</b></a>: Don't have time to read
+  through all of this, but want a taste of what I listened to this year?  I
+  have assembled for you <a
+  href="https://joshuawise.com/resources/eoy2018/v1/">a CD-length
+  (72-minute) continuous mix</a> with some of my favorite tracks that I
+  listened to this year, spanning a wide variety of genres, feelings, and
+  tones.  I had an enormous amount of fun putting this together; I hope
+  you'll enjoy listening to it as much as I enjoyed assembling it for
+  you!</p>
+  
+  <p style="clear: both;"><b>New albums for 2018.</b><ul>
+---
+type: albums
+list:
+-
+  artist: Gabriel &amp; Dresden
+  album: The Only Road
+  url: https://www.amazon.com/gp/product/B004S5OTM8/ref=oh_aui_d_detailpage_o08_?ie=UTF8&psc=1
+  purchased: January 12th
+  released: December, 2017
+  cover: https://m.media-amazon.com/images/I/616ikd550aL._SS500_.jpg
+  rating: 5
+  body: |
+    <p>Electronica; nominally trance, but not definitively.  Recommended for
+    everyone.  <b>Drop what you're doing and buy this album right now.</b></p>
+    
+    <p>I heard that this was happening because I just happened to tune into
+    Above &amp; Beyond's radio show, where G&amp;D were doing a guest mix to
+    promote their new album.  <i>I'm sorry, wait, a G&amp;D new album???</i>
+    I picked it up at the beginning of the year, and as I alluded to in last
+    year's review, I absolutely loved it.  I'm glad I didn't discover this
+    in 2017, really: I would have hated to have to decide between this and
+    <i>Escape</i> as my favorite album from 2017!</p>
+    
+    <p>This album reads as a continuous mix, and I love it as a coherent
+    unit.  Like albums that I've fallen in love with in the past, it
+    explores a wide range of content and a wide range of feelings in the
+    soundscapes that it puts together.  It starts as what feels like is
+    going to be a trance DJ set with <i>Only Road</i>, and that's okay, but
+    the style shifts all over the place, with Gabriel &amp; Dresden's
+    trademark detuned synths showing up in <i><a
+    href="https://www.youtube.com/watch?v=e4qVuljO-Nw">This Love Kills
+    Me</a></i>, and an almost New Order-like sound in the verse (such as it
+    is) in <i><a
+    href="https://www.youtube.com/watch?v=sK-aMfUdNz8">You</a></i>.  It's
+    difficult to describe the true expanse that this album covers without
+    going into almost every song on it; it's almost a disservice to the
+    album to have to pick only a few tracks to get a feel of what it is, but
+    the linked ones represent at least a few corners of it.</p>
+    
+    <p><i>Two tracks from this album ended up on my <a
+    href="https://joshuawise.com/resources/eoy2018/v1/">end of year
+    compilation</a>: &ldquo;Jupiter&rdquo; and &ldquo;I'm Not Like Everybody
+    Else&rdquo;.</i></p>
+-
+  artist: Ari Mason
+  album: Musica Lunae
+  url: https://www.amazon.com/dp/B078P5PSH2/ref=docs-os-doi_0
+  bandcamp: https://arimason.bandcamp.com/album/musica-lunae
+  purchased: January 14th
+  released: December, 2017
+  cover: https://m.media-amazon.com/images/I/619o-TFQoNL._SS500_.jpg
+  rating: 2
+  body: |
+    <p>Classical.</p>
+    
+    <p>Ari Mason, who you may remember from 2016's collection of almost
+    EBM-style tunes, is evolving as an artist, and she spent much of 2018
+    changing around her sound.  A lot of the rest of what she did in 2018
+    had an R&amp;B feel.  But this, on the other hand, is something else:
+    she decided to cover a bunch of 16th century motets.  Reportedly,
+    despite the sound, none of the recording uses a vocoder, which is quite surprising indeed!</p>
+    
+    <p>In the "extra credit" notes from last year, I wrote: "But I'm really
+    excited to see an artist finding her sound, and making such a strong
+    statement: "this is what I believe that this genre should draw from",
+    and "it's okay to have crosspollination in our influences".  This is a
+    gutsy album to release, and I'm so glad that she did it." I stand by
+    that: I'm not convinced that this is something that everyone has to buy,
+    but if you liked Ari Mason's previous work, this is an interesting and
+    very different view on what is clearly quite a lot of musical
+    talent.</p>
+-
+  artist: Above &amp; Beyond
+  album: Common Ground
+  url: https://www.amazon.com/gp/product/B077Z8V1Y7
+  purchased: January 26th
+  released: January 26th
+  cover: https://m.media-amazon.com/images/I/61iO+ojmQdL._SS500_.jpg
+  rating: 2
+  body: |
+    <p>Trance, or, uh, as trancey as 125bpm gets.  Buy if you liked <i>We
+    Are All We Need</i>; everyone else can skip.</p>
+    
+    <p>Yep, it's a modern Above &amp; Beyond album, I guess.  To be honest,
+    I am not super enamored with Above &amp; Beyond's productions these
+    days: they all seem to have the same flavor, and that flavor is not
+    really what I want.  It's either commercialized trouse that all sounds
+    the same, or messy big room disasters that all have the same drop.  I
+    keep buying it, because I loved <i>Tri-State</i>, and I know there will
+    be a few tracks that I will love, but it kind of gives me the same
+    feeling that I got from Gareth Emery's <i>100 Reasons To Live</i>: it
+    feels like they turned the crank and just churned out another one.</p>
+    
+    <p>Anyway, there are some good tracks on there.  <i><a
+    href="https://www.youtube.com/watch?v=DUFBQqhxR8c">Sahara Love</a></i>
+    tickles some specially joyful bits of beats in my head, and I really do
+    occasionally keep hearing Zo&euml; Johnston's voice echoing in <i><a
+    href="https://www.youtube.com/watch?v=ZALrv7eMWbs">Always</a></i> in my
+    head, so those are maybe highlights to listen to if you'd like.</p>
+    
+    <p><i>&ldquo;Sahara Love&rdquo;, from this album, ended up on my <a
+    href="https://joshuawise.com/resources/eoy2018/v1/">end of year
+    compilation</a>.</i></p>
+-
+  artist: Lamb
+  album: Backspace Unwind
+  url: https://www.amazon.com/Backspace-Unwind-Lamb/dp/B07Q16RZGG
+  purchased: May 2nd
+  released: October 2014
+  cover: https://m.media-amazon.com/images/I/81-+npsgZkL._SS500_.jpg
+  rating: 3
+  body: |
+    <p>Chill-verging-on-ambient that wraps its tendrils around you. 
+    Recommend if that intrigues you instead of scaring you.</p>
+    
+    <p>This album is a great way to get completely and totally lost in
+    soundscapes that collide directly with lyrics that verge somewhere
+    between "abstract" and "sharp and pointed".  I knew of Lamb originally
+    from a remix of one of their songs &mdash; <i>Trans Fatty Acid (K&amp;D
+    Session)</i> &mdash; but I think something from this album got suggested to
+    me by YouTube, of all places.  (Maybe it got bored of recommending Nazis
+    and decided to try doing some actual good in the world for once.) This
+    album stays largely in its own little corner of truly intense sounds,
+    but it varies some within, ranging from <i>Nobody Else</i> &mdash; a 6/8
+    ballad &mdash; to <i><a
+    href="https://www.youtube.com/watch?v=Do7RUIDqRJE">What Makes Us
+    Human</a></i>, which seems resistant to any particular analysis of
+    rhythm at all.  The sweeping synths seem to want to grip you and pull
+    you every which way; I found it to be quite rewarding to let them.</p>
+    
+    <p><i>&ldquo;What Makes Us Human&rdquo;, from this album, ended up on my <a
+    href="https://joshuawise.com/resources/eoy2018/v1/">end of year
+    compilation</a>.</i></p>
+-
+  artist: Gothic Buddha Masters
+  album: Gothic Buddha Lounge
+  url: https://www.amazon.com/gp/product/B003L72E6C/ref=ppx_yo_dt_b_d_asin_title_o02?ie=UTF8&psc=1
+  purchased: May 23rd
+  released: April 2007
+  cover: https://m.media-amazon.com/images/I/81hwCO6aMfL._SS500_.jpg
+  rating: 1
+  body: |
+    <p>Dark ambient.</p>
+    
+    <p>I think I was looking for music for my yoga class for World Goth Day,
+    and, well, I got it.  I was searching, and I think, I must've found the
+    track <i><a
+    href="https://www.youtube.com/watch?v=RwEswr2dduE&list=OLAK5uy_mgoucgj57aJvVIn3-mzL1vtDh7DGEYYMk&index=10">Gothic
+    Yoga</a></i>, which I think is <i>definitely</i> a representative track
+    of what you'll get on this album.  It is 100% as weird as advertised.</p>
+    
+    <p>Ambient ain't usually my thing, but if it's yours, I think this might
+    be pretty decent ...  you'll have to let me know.  It might be good
+    background noise while you're working; I'll have to try it for that.</p>
+-
+  artist: (Compilation)
+  album: In Search of Sunrise 14
+  url: https://www.amazon.com/dp/B07DXB66B7/ref=docs-os-doi_0
+  purchased: July 17th
+  released: June 29th
+  cover: https://m.media-amazon.com/images/I/71dZ9BlpmTL._SS500_.jpg
+  rating: 4
+  body: |
+    <p>Mix CD: trance, etc.  Recommend for people interested in that kind of
+    thing.</p>
+    
+    <p>I don't usually get mix CDs, but I definitely don't regret getting
+    this.  This is a 3CD with mixes each from Markus Schulz, Gabriel &amp;
+    Dresden, and Andy Moor &mdash; each of which, in their own right, is a huge
+    and historic name in trance.  All of that is amplified by the fact that
+    <i>ISOS</i> is also a compilation with a real history behind it;
+    Ti&euml;sto did the first seven, for instance, and had a history of
+    putting remixes that are now considered "the standard" on a bunch of
+    them.</p>
+    
+    <p>Anyway, this mix seems to have offered each of those three artists an
+    opportunity to compose an answer to the question, &ldquo;what do you
+    think trance ought to sound like in 2018?&rdquo; &mdash; and each of the
+    three has their own subtly different answer.  I think this compilation
+    is a great, and fairly definitive, set of perspectives, and if you find
+    yourself interested in that question, you probably owe it to yourself to
+    listen to the answers from these three artists.</p>
+-
+  artist: Solarstone
+  album: .---- (1)
+  url: https://www.amazon.com/dp/B06XPZ8N1X/ref=docs-os-doi_0
+  purchased: July 17th
+  released: April 2017
+  cover: https://m.media-amazon.com/images/I/51c3W6xlqNL._SS500_.jpg
+  rating: 4
+  body: |
+    <p>Trance.  Even a little dark!  Recommend if you liked <i>Pure</i>, or
+    for trance fans.</p>
+    
+    <p>Ever since Solarstone released <i>Pure</i> in 2012, I've kind of
+    hoped he would do another artist album.  I'm not sure how I ended up
+    finding that he <i>did</i> &mdash; but I'm glad he did, because this feels
+    like a worthy follow-up.  It feels like it trends a little more
+    melancholy than <i>Pure</i>, but on the other hand, maybe I do too &mdash;
+    and it certainly retains that uplifting Solarstone base, if you know
+    where to look for it, after all.  <i>.----</i> (morse code for "1") is
+    only eight tracks long, but I think that goes a long way to help the
+    album avoid overstaying its welcome; Solarstone had about eight tracks
+    of good ideas, and so he released only that much music.</p>
+    
+    <p>If you like, for instance, <i><a
+    href="https://www.youtube.com/watch?v=nPW-9ZKIY7Q">I Found You</a></i>
+    (featuring Meredith Call) or <i><a
+    href="https://www.youtube.com/watch?v=ix7kzitFkTc">Choosing His
+    Angels</a></i> (featuring Alex Karweit), you'll probably like the rest of <i>.----</i>.  I sure do, anyway.</p>
+    
+    <p><i>&ldquo;Leap of Faith&rdquo;, from this album, ended up on my <a
+    href="https://joshuawise.com/resources/eoy2018/v1/">end of year
+    compilation</a>.</i></p>
+-
+  artist: Solarstone
+  album: ..--- (2)
+  url: https://www.amazon.com/gp/product/B07CQRT43F
+  purchased: July 17th
+  released: May 4th
+  cover: https://m.media-amazon.com/images/I/51h29Fko4BL._SS500_.jpg
+  rating: 2
+  body: |
+    <p>Trance.</p>
+    
+    <p>This is, in theory, the successor album to <i>.----</i>.  It has some
+    solid tracks on it, but it doesn't feel as coherent as its predecessor. 
+    It has a little of the "turning the crank" feel, but mostly my claim is
+    that it has a bunch of okay tracks, but no really great ones.  It's not
+    an active disappointment, but it kind of feels like a no-op.  If you
+    want some more Solarstone, <i><a
+    href="https://www.youtube.com/watch?v=MIbhbA65BdI">Midsummer
+    Nights</a></i> is probably this album's biggest contribution to that
+    aesthetic.</p>
+-
+  artist: De/Vision
+  album: Citybeats
+  url: https://www.amazon.com/gp/product/B07DC6VHJD
+  purchased: July 17th
+  released: June 22nd
+  cover: https://m.media-amazon.com/images/I/81vvL58eQ2L._SS500_.jpg
+  rating: 1
+  body: |
+    <p>Futurepop.</p>
+    
+    <p>De/Vision seems like they have an even/odd cadence of "good album",
+    "bad album".  Unfortunately for me, this album seems like it falls into
+    the "odd" cadence.  I am used to driving, compelling rhythms, with big
+    synths to back them up; I found this album to be, rhythmically,
+    uninteresting, and I generally felt myself uncompelled to move my body
+    in response.  I think I only listened to it once or twice, and I don't
+    remember much of it; representative, maybe, is <i><a
+    href="https://www.youtube.com/watch?v=V8bHzj7zwfM">They Won't Silence
+    Us</a></i>.</p>
+-
+  artist: ohGr
+  album: TrickS
+  url: https://www.amazon.com/gp/product/B07DRNX2QX
+  purchased: July 17th
+  released: June 20th
+  cover: https://m.media-amazon.com/images/I/91BYv78tp9L._SS500_.jpg
+  rating: 1
+  body: |
+    <p>Industrial.</p>
+    
+    <p>I was kind of upset with the De/Vision album mentioned above, because
+    I knew it could be better be than what it was.  I rated this the same
+    because I listen to it about the same amount, but I like it better as an
+    artistic statement: I think what I learned from this album is not that
+    "ohGr's composition is bad", but that "I don't really categorically love
+    ohGr".  ohGr has had his moments in the past for me (<i>wateR</i> is a
+    track that has stuck in my mind for a good long while), but none of this
+    really made me stick around such that I want to replay it.  But all that
+    said, I at least can name a track that I like from this album, and it is
+    the title track, <i><a
+    href="https://www.youtube.com/watch?v=WsknnvrVPYg">TrickS</a></i>.</p>
+-
+  artist: Ashbury Heights
+  album: The Victorian Wallflowers
+  url: https://www.amazon.com/gp/product/B07G5KW859/
+  purchased: August 24th
+  released: August 24th
+  cover: https://m.media-amazon.com/images/I/A1wQWc5rmHL._SS500_.jpg
+  rating: 3
+  body: |
+    <p>Synth......something.  Recommend for Ashbury Heights fans or people
+    who want something <i>just plain weird</i>.</p>
+    
+    <p>I have absolutely no idea what is going on in this album and I'm kind
+    of here for it.  Ashbury Heights have a very synthpop-ish legacy, but
+    this album solidly went in the direction of "whatever the hell Anders
+    Hagstr&ouml;m wants, because he has been around too long to put up with
+    whatever your thoughts are on what he should write".  So the result is
+    something completely off the wall; it starts with <i>Headlights</i> at
+    155+bpm, moving into an almost Gareth Emery-feeling track, through an
+    almost French House-style gated compressor, all the way through
+    <i>Waiting For The Fall</i> with a Groove Coverage kind of feeling... 
+    it's all so weird, but the secret is that I actually love all of those
+    sounds.  I vacillate between feeling that the whole thing is way over
+    the top, and feeling that it's exactly what I want; maybe the two
+    feelings actually coexist better than I had thought!</p>
+    
+    <p>I have no idea what to recommend as "representative" tracks.  Maybe
+    <i><a href="https://www.youtube.com/watch?v=0kYqpp4NmL4">Journey</a></i>
+    is one extreme, and <i><a
+    href="https://www.youtube.com/watch?v=Dsz3pbhpCac">Headlights</a></i> is
+    on the other side, but there's a lot of weird stuff everywhere in the
+    middle.</p>
+-
+  artist: Helix
+  album: Twin
+  url: https://www.amazon.com/gp/product/B07FSC5KF7
+  bandcamp: https://helix.bandcamp.com/album/twin
+  purchased: August 24th
+  released: August 24th
+  cover: https://m.media-amazon.com/images/I/71HVnsg6Z0L._SS500_.jpg
+  rating: 4
+  body: |
+    <p>Synthpop.  Trip-hop.  Recommend for synthpop and dark electronic
+    fans.</p>
+    
+    <p>Helix is one of Tom Shear (Assemblage 23)'s many side projects, this
+    time formed alongside vocalist Mari Kattman.  I've been ambivalent on
+    some of Tom's other side projects, but I <i>really</i> like the
+    combination that resulted.  It feels like a fresh view on a lot of the
+    themes of his work, and more than that, it's an opportunity to let
+    someone else bring the strengths of their vocals on top of what I think
+    Tom really does best &mdash; putting down communicative and engrossing drum
+    sequences and synths.  As a change, not everything on the album is
+    something that necessarily makes you gyrate and dance (though it does
+    have its moments!), but instead there are some more pensive
+    opportunities, and unusually for A23-associated work, they don't seem to
+    drag along.</p>
+    
+    <p>If you like A23's stuff, this is a logical place to go.  But the
+    interesting thing, I think, is even for people who don't necessarily
+    like Tom Shear's previous work, there might well be something for you. 
+    There's something to this album that seems familiar, but at the same
+    time, there's a whole new range of sounds that just don't fit the
+    Assemblage 23 name &mdash; and I'm glad that Tom Shear is exploring them here
+    anyway.  Representative, maybe, is the dancy-feeling <i><a
+    href="https://helix.bandcamp.com/track/bird-of-prey">Bird of
+    Prey</a></i>, and the slower, chilled trip-hop feeling of <i><a
+    href="https://helix.bandcamp.com/track/i-might-be-wrong">I Might Be
+    Wrong</a></i>.</p>
+    
+    <p><i>&ldquo;Bird of Prey&rdquo;, from this album, ended up on my <a
+    href="https://joshuawise.com/resources/eoy2018/v1/">end of year
+    compilation</a>.</i></p>
+-
+  artist: Solitary Experiments
+  album: Crash &amp; Burn
+  url: https://www.amazon.com/gp/product/B07FM9CTKP/
+  purchased: August 24th
+  released: August 10th
+  cover: https://m.media-amazon.com/images/I/A1f1NA2tMAL._SS500_.jpg
+  rating: 3
+  body: |
+    <p>Industrial.  Aggressive futurepop.  EBM.  CD single.</p>
+    
+    <p>I had kind of forgotten about Solitary Experiments, but I know them
+    as "the group that does higher-BPM stuff that I really like".  I saw
+    this float by on YouTube, and I had planned to include it on my yearmix,
+    so I bought it, and actually, the rest of the single is basically worth
+    it, too!  My big complaint about this is that it's just mastered way too
+    hot, but musically, Crash &amp; Burn just seems to tickle all of the
+    bits that really get make me get way into synthpop.  The remixes on the
+    album, also, are a total riot &mdash; if you couldn't get enough of the
+    Ashbury Heights weirdness from earlier this year, you bet that <i><a
+    href="https://www.youtube.com/watch?v=laUhS2SIwrI">Crash &amp; Burn
+    (Ashbury Heights Remix)</a></i> is appropriately wacky.</p>
+    
+    <p><i>&ldquo;Crash &amp; Burn&rdquo;, from this album, ended up on my <a
+    href="https://joshuawise.com/resources/eoy2018/v1/">end of year
+    compilation</a>.</i></p>
+-
+  artist: Infected Mushroom
+  album: IM21, Pt. 1
+  url: https://www.amazon.com/gp/product/B079Q4Z5NV/
+  purchased: August 24th
+  released: March 9th
+  cover: https://m.media-amazon.com/images/I/81ZmMBH4l6L._SS500_.jpg
+  rating: 3
+  body: |
+    <p>Uh...  Infected Mushroom.  Remixes.  Buy for Infected Mushroom
+    completionists.</p>
+    
+    <p>Have you ever wanted <i><a
+    href="https://www.youtube.com/watch?v=PI49zUEo0ko">an acoustic live
+    version of I Wish</a></i>?  That is one of five "unusual remixes" that
+    is on this album, which I purchased for $5.  It was a good use of $5. 
+    There is nothing new on this album &mdash; just remixes &mdash; but let's be
+    honest: old Infected Mushroom is good Infected Mushroom.</p>
+-
+  artist: Seven Lions ft. Fiora
+  album: Start Again EP
+  url: https://www.amazon.com/gp/product/B07GSKJL34/
+  purchased: September 5th
+  released: August 24th
+  cover: https://m.media-amazon.com/images/I/61xGd5XjaPL._SS500_.jpg
+  rating: 4
+  body: |
+    <p>EDM, verging on dubstep.  Recommended, even if you normally look at
+    the word "dubstep" and run the other direction.</p>
+    
+    <p>To be honest, the only reason this isn't getting a 5 from me for this
+    year is that there are already <i>three!</i> other albums that get 5s. 
+    But this is a really great four-track EP.  It's crafted as something of
+    a concept album, and at least flows intentionally from track to track;
+    it feels like a shaped narrative of feelings, which always resonates
+    with me.  Even the track in the middle that I stylistically like least
+    &mdash; <i>After Dark</i> &mdash; I understand why it "needs to be there" for the
+    purpose of the album, and I respect it.</p>
+    
+    <p>Maybe part of why I like this album is that it came at the right
+    time.  It kept popping up in my playlist during a few months of a
+    horribly rough phase of a relationship, and felt like it was asking some
+    of the same questions I was asking myself.  <i><a
+    href="https://www.youtube.com/watch?v=oirlCoi3iCM">Start Again</a></i>
+    felt like it prodded at the same edge of giving up versus trying again
+    that I kept finding myself on the corner of ...  and the enormous chords
+    of <i><a
+    href="https://www.youtube.com/watch?v=ZsJLmTPeBnk">Dreamin'</a></i> were
+    a beacon in the darkness, as this counterpoint and resolution to the
+    tension that the rest of the album builds up.  I found this to be one of
+    the most refreshing and honest takes on "modern EDM" that I'd heard in a
+    while; at just 22 minutes, I think it's worth a listen through for most
+    people.</p>
+    
+    <p><i>&ldquo;Start Again&rdquo;, from this album, ended up on my <a
+    href="https://joshuawise.com/resources/eoy2018/v1/">end of year
+    compilation</a>.</i></p>
+-
+  artist: Metric
+  album: Art of Doubt
+  url: https://www.amazon.com/gp/product/B07GHBLMHC/
+  purchased: September 21st
+  released: September 21st
+  cover: https://m.media-amazon.com/images/I/71I72NPYJmL._SS500_.jpg
+  rating: 5
+  body: |
+    <p>Rock.  <b>Buy this album.</b></p>
+    
+    <p>I have liked Metric's work for a while.  Fantasies and Synthetica
+    have their catchy moments; Pagans in Vegas was okay, too, I suppose. 
+    One of the things that I really enjoy, though, is Emily Haines's style
+    of songwriting &mdash; what feels like almost an unfiltered reflection of her
+    psyche, in a way that seems pretty rare.  Art of Doubt doubles down on
+    this, lyrically getting even deeper than I remember from any previous
+    Metric albums, and as the album title suggest, touching on themes of
+    uncertainty that feel like they've been glossed over in her past work.</p>
+    
+    <p>Art of Doubt starts off with a proper "stadium rock" feeling to it,
+    and that's the tone of the first half of the album.  <i>Risk</i> feels
+    like a pivot point in the album's energy into a more reflective phase,
+    from feelings and tones into a more explicitly experiential view.  The
+    first half sticks in my head more, to be sure, but I'm not sure this is
+    a knock on the second half &mdash; the second half feels almost like a
+    necessary come-down, just as a way of reminding the listener that it's
+    all true to what feels like reality for Emily Haines.</p>
+    
+    <p>Anyway, I think everyone should just listen to this album cover to
+    cover, probably on a road trip or something.  But if you can't do that,
+    have a listen to <i><a
+    href="https://www.youtube.com/watch?v=U1ej6O9ZPEE">Underline the
+    Black</a></i> and <i><a
+    href="https://www.youtube.com/watch?v=NC8MfulGMXE">Now or Never
+    Now</a></i>.  Then go listen to the rest of the album anyway.</p>
+    
+    <p><i>Two tracks from this album ended up on my <a
+    href="https://joshuawise.com/resources/eoy2018/v1/">end of year
+    compilation</a>: &ldquo;Dressed to Suppress&rdquo; and &ldquo;Now or
+    Never Now&rdquo;.</i></p>
+-
+  artist: Kamasi Washington
+  album: Heaven and Earth
+  url: https://www.amazon.com/gp/product/B07BY6W577/
+  purchased: October 3rd
+  released: June 22nd
+  cover: https://m.media-amazon.com/images/I/919fwG4LunL._SS500_.jpg
+  rating: 5
+  body: |
+    <p>Free jazz.   Afro-futurism.  <b>Buy this album.</b></p>
+    
+    <p>I do not get to listen to enough modern jazz, really, and this album
+    feels like what I needed as an antidote to that.  The general thesis of
+    this double (!) album is simple, and it goes like this: the first CD is
+    "Earth", a gritty view onto this world we live in, as separate from
+    Washington's view of the Divine &mdash; and the second CD is "Heaven", an
+    almost Messianic view of a perfect world, and the calling that takes us
+    there.  In some ways, these two themes are overt in presentation; the
+    first track on the first CD, <i>Fists of Fury</i>, explicitly presents a
+    message of Black empowerment in its lyrics, while <i>Vi Lua, Vi Sol</i>
+    off of the second album is a ballad of love from a creator to all of
+    creation.  But in other was, the themes hide in sounds and tones: the
+    almost frenzied feel to <i>Connections</i> (off the first disc)
+    contrasts directly with the feeling of transcendence associated with
+    <i>The Space Travelers Lullaby</i>, which opens up the second disc &mdash;
+    even though both have no lyrics to speak of.</p>
+    
+    <p>One comparison I find myself making is with John Coltrane's <i>A Love
+    Supreme</i>, a four part investigation also into Coltrane's connection
+    with divinity.  Coltrane tries a bunch of ways to get his message across
+    &mdash; lyrics, an almost mantra-like repetition of a phrase, and sounds &mdash;
+    and they all play off each other in the hope that one will stick. 
+    Washington takes a similar tack, both in the general sorts of questions
+    that he asks with his inquiry, and also with how he goes about it.  In
+    some ways, Washington's work is more accessible than Coltrane's: it has
+    lyrics and rhythms that are aligned more closely with what our modern
+    ears seem to understand and expect, and so it's often more familiar.  In
+    other ways, it's less accessible: while Coltrane makes his point in four
+    tracks lasting just over half an hour, Washington explores the subject
+    matter for almost two and a half hours.  But the familiarity that the
+    modern sounds bring to it, I think, compensate for that: more often than
+    not, I found myself thinking "aha!  I understand what he's doing here",
+    and suddenly excited about a new twist or turn that he had taken.  I
+    found myself basically captivated for the entire duration of my first
+    listen-through &mdash; no mean feat for such a long work!</p>
+    
+    <p>Anyway, I think everyone should listen to this.  This album feels
+    like a definitional moment for "what jazz should be in 2018".  If you
+    can't listen to all of it, <i>Fists of Fury</i> (not on YouTube, but <a
+    href="https://open.spotify.com/track/3E8nzNloeto0X4PStdQwQA?autoplay=true&v=T">Spotify</a>,
+    and <a
+    href="https://play.google.com/music/preview/Twuj7fmd2nkjr2hc5sl42chwxc4?play=1&u=0">Google
+    Play Music</a>) and <i>Vi Lua, Vi Sol</i> (not on YouTube, but <a
+    href="https://open.spotify.com/track/2CXPFR5RwI4Ao4g1u1RCYW?autoplay=true&v=T">Spotify</a>,
+    and <a
+    href="https://play.google.com/music/preview/Trsrw7t3a6q2wu725jxakz5tfkq?play=1&u=0">Google
+    Play Music</a>) are great tastes of what this album is all about.</p>
+    
+    <p><i>&ldquo;Will You Sing&rdquo;, from this album, ended up on my <a
+    href="https://joshuawise.com/resources/eoy2018/v1/">end of year
+    compilation</a>.</i></p>
+-
+  artist: VNV Nation
+  album: Noire
+  url: https://www.amazon.com/gp/product/B07J24F7FJ/
+  purchased: October 12th
+  released: October 12th
+  cover: https://m.media-amazon.com/images/I/71KCfzpaX5L._SS500_.jpg
+  rating: 2
+  body: |
+    <p>EBM, or futurepop, or whatever VNV Nation is.  Buy for VNV
+    completionists; everyone else can probably skip.</p>
+    
+    <p>Noire is VNV's first album that's just Ronan Harris, after Mark
+    Jackson left the band.  It's like an hour and 13 minutes, and there's
+    just no need for it to be that long.  Each song goes on at least a
+    minute longer than Ronan had ideas, so my conclusion is that Mark
+    Jackson was the one who held the trimming tool in his hand.  Since the
+    album is so damned long, I'll try to be brief.</p>
+    
+    <p>There are a few good tracks on it with good ideas, and a few that
+    even stick out in my mind.  All of them just feel too damn long, though. 
+    Anyway, the track you're looking for is <i><a
+    href="https://www.youtube.com/watch?v=SF5mf4LV7Jw">When is the
+    Future?</a></i>.</p>
+    
+    <p><i>&ldquo;Immersed&rdquo; &mdash; yes, all six and a half minutes of it &mdash;
+    from this album, ended up on my <a
+    href="https://joshuawise.com/resources/eoy2018/v1/">end of year
+    compilation</a>.</i></p>
+-
+  artist: Solitary Experiments
+  album: Future Tense
+  url: https://www.amazon.com/gp/product/B07HNJXHVG
+  purchased: October 26th
+  released: October 26th
+  cover: https://m.media-amazon.com/images/I/A1hZpjMn4KL._SS500_.jpg
+  rating: 3
+  body: |
+    <p>Futurepop.  EBM.  Recommend for fans of the genre.</p>
+    
+    <p>I think that the best description of this 2CD for me is that
+    <i>Future Tense</i> is the album that I really wanted <i>Noire</i> to
+    be.  Although it mostly settles on a theme that feels a lot like the
+    lead single, <i>Crash &amp; Burn</i>, it's, anyway, not exactly 12
+    tracks of the same song over and over again; it has its share of
+    ballads, and different rhythms to shake things up a little, even if the
+    instrumentation is fairly similar from track to track.  As a whole,
+    though, the album comes at you like a train, with <i>I Am</i> totally
+    unstoppable in its unlifting synths.  (As a bonus, you get a second side
+    full of remixes, which are often interesting views on the original
+    tracks.) My biggest pet peeve is that the album is mastered hot as hell,
+    to the point that some of the tracks sound clipped, which seems like a
+    frustratingly unnecessary strike against an otherwise very solid
+    album.</p>
+    
+    <p><a href="https://www.youtube.com/watch?v=P6aU3mS_CaE"><i>Every
+    Time</i></a> is a good introduction to the harmonies and soaring synths
+    that you'll find on the album, and <a
+    href="https://www.youtube.com/watch?v=zeZxi8vlgdM"><i>Shelter</i></a> is
+    a counterpoint of something more ballad-like; if you like these, you'll
+    like the rest of the album.</p>
+    
+    <p><i>&ldquo;Crash &amp; Burn&rdquo;, from this album, ended up on my <a
+    href="https://joshuawise.com/resources/eoy2018/v1/">end of year
+    compilation</a>.</i></p>
+-
+  artist: Muse
+  album: Simulation Theory
+  url: https://www.amazon.com/gp/product/B07GT7W28D
+  purchased: November 9th
+  released: November 9th
+  cover: https://m.media-amazon.com/images/I/A1bIrHd6D4L._SS500_.jpg
+  rating: 2
+  body: |
+    <p>Rock (paranoid).  Recommend for Muse completionists.</p>
+    
+    <p>There's a new Muse album.  It seems to happen every year or two. 
+    And, really, there's basically one big problem with that &mdash; well,
+    actually, there are three big problems, and they are <i>Origin of
+    Symmetry</i>, <i>Absolution</i>, and <i>Black Holes &amp;
+    Revelations</i>.  The basic issue is that Muse, more or less, keep
+    making the same album, but every time they do, it's not as good as the
+    last time they made the same album.  Occasionally they have shaken it up
+    &mdash; <i>Resistance</i> was something that was totally different than Old
+    Muse, and <i>2nd Law</i> was something that was just straight up bad
+    even if you don't compare it to their other albums, but the biggest
+    problem with <i>Simulation Theory</i> is that Matt Bellamy doesn't
+    really say anything in it that he didn't say better in the past.</p>
+    
+    <p>So I guess what I'm saying is that <i>Simulation Theory</i> isn't
+    really a <i>bad</i> album, per se [1] ... but I just don't see a whole lot
+    of reason for it to exist.  It has a handful of good tracks, and I'd
+    even say that there are more good tracks than there are bad ones.  But
+    even the best of them are good mostly for gag value, rather than for
+    anything else about them (and Muse seem to implicitly acknowledge this,
+    for instance, by commissioning the UCLA Bruin Marching Band to do an <a
+    href="https://www.youtube.com/watch?v=K1lUUX9IPvg">official cover of
+    <i>Pressure</i></a>!).  Not a whole lot of it sticks out in my head;
+    maybe that's because I've been trending away from rock, or maybe it's
+    because I've been trending away from Muse's sound, or maybe it's just
+    because it feels unremarkable, but either way, it's hard to know
+    which.</p>
+    
+    <p>Anwyay, probably one of my favorite tracks on the album is <a
+    href="https://www.youtube.com/watch?v=azAEHCQgcUI"><i>Something
+    Human</i></a> ...  and if you want to have a good laugh, click through
+    to <a href="https://www.youtube.com/watch?v=b4ozdiGys5g"><i>Dick
+    Town</i></a>, all the while with the knowledge that I have primed your
+    brain with that phrase.</p>
+    
+    <p><small>[1] Just as I finished writing this, I did realize that I
+    wanted to call out one thing I heard on the album that kind of
+    explicitly bothered me.  Muse, and Bellamy, have always enjoyed speaking
+    of conspiracy theories and generally topics of paranoia and otherworldly
+    control.  <i>Thought Contagion</i> echoes some of these themes of social
+    control, but one lyric in the chorus, "<i>...brace for the final
+    solution...</i>" feels particularly ill-conceived.  The song is unclear
+    in its intent, and can be read either as a warning of the rise of
+    fascism (and, therefore, an anti-fascist call to action, with a claim of
+    the consequence) &mdash; or it can be read as a claim that the "thought
+    contagion" is something that can be <i>cleansed</i> with a "final
+    solution" (and, therefore, an anti-semitic call to action!).  I
+    generally read the message as the former, and so that doesn't stop me
+    from recommending the album ...  but all that said, Matt Bellamy is no
+    fool, and really ought to have known better than that.</small></p>
+-
+  artist: Kyau &amp; Albert
+  album: Neverlost
+  url: https://www.amazon.com/gp/product/B07KFH35JD
+  purchased: December 11th
+  released: December 7th
+  cover: https://m.media-amazon.com/images/I/81qGDtdtStL._SS500_.jpg
+  rating: 1
+  body: |
+    <p>Trance.</p>
+    
+    <p>Kyau &amp; Albert is one of those old-school trance names from when I
+    started listening to trance, so when I saw that they had released an
+    artist album, I was excited.  Unfortunately, not a whole lot on it
+    really stuck out in my head.  I guess it was good background music when
+    I was working when I listened through it, but only one track was really
+    remarkable, and that was <i><a
+    href="https://soundcloud.com/kyauandalbert/dont-need-a-lesson">Don't
+    Need a Lesson</a></i>.  I guess the track that followed it, <i><a
+    href="https://www.youtube.com/watch?v=OcKewwV2UYA">Airy</a></i>, is a
+    cool instrumental too that I could see being the soundtrack to
+    something.  The rest you can safely skip.</p>
+
+-
+  artist: Armin van Buuren
+  album: A State of Trance, Year Mix 2018
+  url: https://www.amazon.com/gp/product/B07L5TF761
+  purchased: December 25th
+  released: December 14th
+  cover: https://m.media-amazon.com/images/I/61Lf2NKh-XL._SS500_.jpg
+  rating: 1
+  body: |
+    <p>Yep, another ASOT yearmix.</p>
+    
+    <p>I liked last year's better than this year's.  I also liked mine
+    better than Armin's.  Regardless, this one felt like a clean miss.</p>
+
+---
+type: raw
+body: |
+  </ul> <p style="clear: both;"><a name="from-me"></a>This year, I spent a
+  bunch of time in Ableton, and mostly made a whole lot of total crap, but
+  some things actually came out pretty decently.  I'd been trying my hand at
+  doing some mashups.  <b>Here are four things that I did in
+  2018</b>:</p><ul>
+  
+---
+type: extracredit
+list:
+-
+  title: "on the horizon: 2018, as heard by Joshua"
+  url: https://joshuawise.com/resources/eoy2018/v1/
+  short: |
+    As I'm sure you've read above, I did an end-of-year mixtape.  I really
+    like how it came out!  My goal in this was to present a wide gamut of
+    music that reflect some of the ways that I saw and felt the world last
+    year.  I think this is is a thing that many people will enjoy, and I
+    hope that you do too.
+-
+  title: Carly Rae Jepsen vs. Coldplay - Viva La Maybe (Wavelet bashup)
+  url: https://joshuawise.com/resources/music-2018/mashups/viva-la-maybe.mp3
+  short: |
+    Ok, this is like my magnum opus of mashups.  I am legitimately proud of
+    this.  I think this is actually good.
+-
+  title: allstar64
+  url: https://joshuawise.com/resources/music-2018/mashups/allstar64.mp3
+  short: |
+    Did you ever play Super Mario 64?  If so, click this.  (~1 minute)
+-
+  title: Apoptygma Berzerk vs. Rednex - Suffer in Joe (Wavelet bashup)
+  url: https://joshuawise.com/resources/music-2018/mashups/suffer-in-joe.mp3
+  short: This one is pretty badly executed, but I do not apologize even a little bit.  I warned you.
+  
+---
+type: raw
+body: |
+  </ul> <p><a name="extra-credit"></a>I also listened to a bunch of music
+  that I didn't end up buying -- for some of these, because I didn't really
+  want a whole album, and for some of them, because there wasn't a whole
+  album to be had.  For <b>extra credit</b>, here's a smattering of these
+  things that I wrote down, anyway, sorted roughly by category ...  but fair
+  warning, they get weird in a hurry:</p><ul>
+
+---
+type: extracredit
+list:
+-
+  title: Elise Trouw - Everlong vs. What You Won't Do For Love
+  url: https://www.youtube.com/watch?v=Gl9GtO_vQxw
+-
+  title: Elise Trouw - Line of Sight (live)
+  url: https://www.youtube.com/watch?v=OuEs8NuaevI
+-
+  title: Elise Trouw - Burn
+  url: https://www.youtube.com/watch?v=LtnYpPsgBxM
+  body: |
+    <p>Elise Trouw is an incredibly talented vocalist and an incredibly
+    talented drummer.  I gave the live versions first, mostly to show what a
+    strong musician she is <i>without</i> a whole lot of editing -- it's a
+    lot easier to produce something good when you're hiding behind a whole
+    studio, but having an intuitive sense for all of the instrumentation
+    that you'll be using and doing your own arranging is a whole different
+    game.  I'm super excited to see what Elise will do over the years to
+    come.  In the mean time, jazz fans -- or, really, fans of fantastic
+    musicians in general -- really oughta listen to this.</p>
+
+-
+  title: Vienna Teng - Eric's Song, live (1)
+  url: https://www.youtube.com/watch?v=h-HGlL8iqO4
+-
+  title: Vienna Teng - Eric's Song, live (2)
+  url: https://www.youtube.com/watch?v=uYm6kkt440s&t=3761s
+  body: |
+    <p>Vienna Teng talks a little bit about the backstories and the songwriting
+    process and just provides a little window into her world, with two
+    fantastic live performances of a song of hers that I love.  These
+    performances are just totally heartmelting for me; in 2019 so far I did
+    finally end up seeing Vienna live in concert.</p>
+
+-
+  title: OK Go - Upside Down &amp; Inside Out
+  url: https://www.youtube.com/watch?v=LWGJA9i18Co
+  short: Song from 2016, but I discovered the music video in 2018, shot in a vomit comet.  Fun and worth watching.
+
+-
+  title: Camila Cabello - Havana
+  url: https://www.youtube.com/watch?v=HCjNJDNzw8Y
+  short: Infectious Latin groove.  This showed up on my year mix.
+
+-
+  title: Conro - Close
+  url: https://www.youtube.com/watch?v=CVHM7n1ONpY
+  short: I think this was probably some of the better EDM that showed up this year, and definitely stuck in my head for a few weeks.
+
+-
+  title: Mura Masa, NAO - Complicated
+  url: https://www.youtube.com/watch?v=NjOLYMGTRWw
+  short: |
+    For a combination of sounds that I usually don't like, I love this
+    track.  I love how simple and clean the mix is, and boy does the chorus
+    get stuck in my head!
+
+-
+  title: Krayysh ft. Joyia - Talk To Me (Mat Zo remix)
+  url: https://www.youtube.com/watch?v=9xkZxpsRxQ0
+- 
+  title: Mat Zo Anjunabeach SoCal 2018 set
+  url: https://soundcloud.com/matzo/mat-zo-anjunabeach-socal-2018-set
+-
+  title: Mat Zo - Vice (VIP)
+  url: https://www.youtube.com/watch?v=J2LiXl9WPxU
+  short: Some things to fill the Mat Zo shaped hole in your life.
+
+-
+  title: Chicane ft. Blandine - What Am I Doing Here? (Walsh &amp; McAuley remix)
+  url: https://www.youtube.com/watch?v=t63HdJ_Mfts
+  short: Extra uplifting synths matches with extra heavy lyrics.  An odd combination that was definitely a kick in the gut.
+
+- 
+  title: Psy'Aviah - Earth, Wind, Fire, Air, and Sky
+  url: https://alfamatrix.bandcamp.com/track/earth-wind-fire-air-and-sky-om-namaha-shivaya
+  short: Almost trancey feeling, with a dose of mantra.
+
+-
+  title: The Atomica Project - Grayscale
+  url: https://theatomicaproject.bandcamp.com/album/grayscale
+  short: Weighty trip-hop.  I came to it through the Iris remix of Gravity.
+
+-
+  title: Noctronyx - Wreath of Barbs
+  url: https://www.youtube.com/watch?v=Vugs9YUYbgM
+  short: Kind of interesting cover if you know the original.
+
+-
+  title: Goldfrapp - Ocean
+  url: https://www.youtube.com/watch?v=dV_G0Xsbvhc
+  short: Contrast the synths with, for instance, <i>I'm Not Like Everybody Else</i> or <i>Underwater</i>, from the G&amp;D album?
+
+-
+  title: Pictureplane - Technomancer
+  url: https://www.youtube.com/watch?v=UJYzOqe8D_g
+  short: Gothy and synthy.  I'm not sure where I found it but I like it.
+
+- 
+  title: Information Society - Nothing Prevails
+  url: https://www.youtube.com/watch?v=954NkxU6Sgg
+  short: New InSoc single.  Sounds like InSoc!
+
+-
+  title: De/Vision - Synchronize (Synchro Mesh mix)
+  url: https://www.youtube.com/watch?v=cAG6YciT2BI
+-
+  title: Seabound - Avalost
+  url: https://www.youtube.com/watch?v=hkWJbSdVBS4
+-
+  title: Iris - It Generates (Darker Days mix)
+  url: https://www.youtube.com/watch?v=rAsdDLrqJwU
+-
+  title: Iris - Waves Crash In (Midnight Sky mix)
+  url: https://www.youtube.com/watch?v=EQlLIIq7ufo
+  short: Four older tracks that I discovered this year that have stuck with me over the months.
+
+-
+  title: Katy Perry - I Kissed a Girl (Aesthetic Perfection remix)
+  url: https://www.youtube.com/watch?v=M-q-wGMuga8
+  short: |
+    How do you feel about "industrial pop remixes of radio-friendly pop"? 
+    Because Aesthetic Perfection did a bunch of them like a decade ago,
+    including also <a href="https://www.youtube.com/watch?v=lu0GQz_ziXc">one
+    of Lady Gaga</a>.  I kind of love it.
+
+-
+  title: Normal Music
+  url: https://iansnyder.bandcamp.com/album/normal-music
+  short: Shitposting remixes designed to drive you insane.  Give to your friends and watch them suffer.
+-
+  title: Carly Rae Jepsen vs. Nine Inch Nails - Head Like A Hole vs. I Really Like You
+  url: https://www.youtube.com/watch?v=WC1ei5RlK7E
+  short: Right up there with <i>Call Me a Hole</i>!
+
+---
+type: raw
+body: |
+  </ul> <p><a name="live-music"></a>Finally, I got to see some <b>live shows</b>
+  last year.  Here's my rundown of what I saw:</p><ul>
+
+---
+type: live
+list:
+-
+  act: "So Stoked: Rave to the Grave II (ft. Daniel Graves of Aesthetic Perfection and Kyau &amp; Albert)"
+  where: DNA Lounge
+  date: January 26th
+  url: https://www.dnalounge.com/calendar/2018/01-26.html
+  short: |
+    An unusual combination of two people in the same room; DJ sets from
+    both.  I liked the trancey sets more than I liked Daniel Graves's.  I
+    also ran into <a href="https://joshua0.dreamwidth.org/65051.html">an
+    interesting character and had a kind of surreal moment</a>.
+-
+  act: Infected Mushroom
+  where: UC Theater
+  date: June 15th
+  url: https://www.theuctheatre.org/event/1692713-infected-mushroom-live-band-berkeley/
+  short: |
+    Yep, it's Mushroom.  Some live band, but a lot of "psytrance karaoke":
+    there's a lot of DAT deck, and not a lot of live music happening, I
+    found.  <a href="https://photos.app.goo.gl/A3wxSwidqCXYyoZs6">Photos.</a>
+-
+  act: Skerik
+  where: Cafe Stritch
+  date: October 26th
+  url: https://www.bandsintown.com/e/100431630-skerik-skerik-at-cafe-stritch?came_from=251&utm_medium=web&utm_source=artist_page&utm_campaign=event
+  short: Dad jokes with instruments.  It was amazing.  I love Cafe Stritch.  <a href="https://photos.app.goo.gl/kKAAjfeJsTXMRsC68">Photo.</a>
+-
+  act: "VNV Nation: Noire tour"
+  where: Regency Ballroom
+  date: December 12th
+  url: https://www.facebook.com/VNVNation/posts/were-bringing-the-noire-tour-to-san-francisco-on-the-12th-decemberat-the-regency/10157986050041258/
+  short: |
+    Yep, another VNV show at the Regency. <a href="https://photos.app.goo.gl/xFoR8Jyktmpaw5Tw7">Photos.</a>
+
+---
+type: raw
+body: |
+  </ul></div></lj-cut>
+  
+  <p>So that was 2018.  What did I miss?</p>
+  
+  <p><center>(<a
+  href="https://joshua0.dreamwidth.org/64820.html">Previously, 2017</a>; <a
+  href="https://joshua0.dreamwidth.org/62706.html">previously, 2016</a>; <a
+  href="https://joshua0.dreamwidth.org/60622.html">previously,
+  2015</a>.)</center></p>
+  
+  <p><center><small>(Also, this post was automatically formatted by a script that I
+  wrote, and if you want it for yourself, you can get it <a
+  href="http://github.com/jwise/dw-music-yaml">here</a>.)</small></center></p>
