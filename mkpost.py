@@ -47,7 +47,7 @@ for p in parts:
       else:
         cover = ""
       
-      print "<li><a name=\"%s\"></a><i>%s</i>: <b><a href=\"%s\">%s%s - %s</a></b> %s(<b>%s</b>; <i>released %s</i>)." %\
+      print "<li style=\"clear: right;\"><a name=\"%s\"></a><i>%s</i>: <b><a href=\"%s\">%s%s - %s</a></b> %s(<b>%s</b>; <i>released %s</i>)." %\
         (mangle_to_ref(album), album["purchased"], album["url"], cover, album["artist"], album["album"], bandcamp, stars(album["rating"]), album["released"])
       if "short" in album:
         print "%s<br></li>" % album["short"]
